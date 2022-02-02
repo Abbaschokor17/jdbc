@@ -8,4 +8,4 @@ Ce GitHub account sera utilisé pour tous les rendus de code relatifs aux projet
 
 Il faudra donc tout simplement retourner au niveau de ce devoir ce lien GitHub.
 
-reponse: la remonse pour se devoir se trouve dans le branch master avec tout les prints screens dans le folder print screens 
+reponse: la reponse pour se devoir se trouve dans le branch master avec tout les prints screens dans le folder les print screens 
