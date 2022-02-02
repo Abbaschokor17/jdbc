@@ -13,6 +13,7 @@ public class MyJDBC {
             while (resultSet.next()) {
                 System.out.println(resultSet.getString("firstname"));
             }
+            System.out.println("hello");
         } catch (Exception e) {
             e.printStackTrace();
         }
