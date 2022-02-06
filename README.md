@@ -23,4 +23,4 @@ reponse: la reponse pour se devoir se trouve dans le branch master avec tout les
 
 Comme à chaque fois, utilisez votre compte GitHub pour le rendu.
 
-reponse :  la reponse pour se devoir se trouve dans le branch RMI avec tout les prints screens dans le folder  print screen
+reponse :  la reponse pour se devoir se trouve dans le branch RMI avec tout les prints screens dans le folder print-screen  et le code dans le folder RMI
